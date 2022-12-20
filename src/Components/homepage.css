@@ -1,0 +1,152 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+.dev1{
+    width: 315px;
+    height: 100vh;
+    border: 1px solid black;
+  background: #E1F9F4;
+}
+.dev2{
+    width: 1201px;
+    height: 100vh;
+    border: 1px solid rgb(9, 11, 9);
+    background: #F5F5F5;
+}
+#a{
+    width: 75px;
+    height: 44px;
+left: 107px;
+top: 45px;
+position: absolute;
+left: 6.69%;
+right: 88.62%;
+top: 4.17%;
+bottom: 91.76%;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #1A1B1C;
+}
+
+#b{
+    height: 385px;
+width: 172px;
+left: 96px;
+top: 170px;
+border-radius: nullpx;
+position: absolute;
+left: 6%;
+right: 83.25%;
+top: 15.74%;
+bottom: 48.61%;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 35px;
+/* or 159% */
+
+
+color: #2289FF;
+
+}
+.j{
+   color: cadetblue;
+   margin: 10px 0px;
+}
+#qw{
+    height: 18px;
+width: 22px;
+left: 46px;
+top: 179px;
+border-radius: 0px;
+position: absolute;
+left: 2.88%;
+right: 95.75%;
+top: 16.57%;
+bottom: 81.76%;
+
+background: #2289FF;
+}
+#qe{
+    height: 19.5px;
+    width: 16px;
+    left: 49px;
+    top: 248.5px;
+    border-radius: 0px;
+    position: absolute;
+    left: 3.06%;
+    right: 95.94%;
+    top: 23.01%;
+    bottom: 75.19%;
+    
+    background: #AAAAAA;    
+}
+#qr{
+    height: 20px;
+    width: 16px;
+    left: 49px;
+    top: 317.6669921875px;
+    border-radius: 0px;
+    position: absolute;
+    left: 3.06%;
+    right: 95.94%;
+    top: 29.41%;
+    bottom: 68.73%;
+    
+    background: #AAAAAA;    
+}
+#qt{
+    height: 22.413000106811523px;
+    width: 16px;
+    left: 49px;
+    top: 385.2539978027344px;
+    border-radius: 0px;
+    position: absolute;
+    left: 3.06%;
+    right: 95.94%;
+    top: 35.67%;
+    bottom: 62.25%;
+    
+    background: #AAAAAA;    
+}
+#qy{
+    height: 14.999420166015625px;
+    width: 22px;
+    left: 46px;
+    top: 460.43701171875px;
+    border-radius: 0px;
+    position: absolute;
+    left: 2.88%;
+    right: 95.75%;
+    top: 42.63%;
+    bottom: 55.98%;
+    
+    background: #AAAAAA;    
+}
+#qu{
+    height: 19.996572494506836px;
+width: 20.00160026550293px;
+left: 48px;
+top: 528px;
+border-radius: 0px;
+position: absolute;
+left: 3%;
+right: 95.75%;
+top: 48.89%;
+bottom: 49.26%;
+
+background: #AAAAAA;
+
+}

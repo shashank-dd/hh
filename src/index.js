@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import {BrowserRouter,Routes,Route} from "react-router-dom"
+import Homepage from './Components/homepage';
 import Login from './Components/Login';
 import Register from './Components/Register';
 import './index.css';
@@ -13,8 +14,9 @@ root.render(
     {/* <App /> */}
     <BrowserRouter>
     <Routes>
-      <Route path='/'element={<Register/>}/>
-      <Route path='/login'element={<Login/>}/>
+      <Route path='/'element={<Login/>}/>
+      <Route path='/register'element={<Register/>}/>
+      <Route path='/homepage'element={<Homepage/>}/>
     </Routes>
     </BrowserRouter>
     
